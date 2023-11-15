@@ -15,15 +15,16 @@
 </div>
 
 <br>
-<br>
+<div align="center">
+	
+👨‍💻 Currently studying in 42 Madrid.
 
-- 👨‍💻 Currently studying in 42 Madrid.
+🍁 Love to travel and visit new places.
 
-- 🍁 Love to travel and visit new places.
+🧠 Willing to learn everything I can to develop myself.
 
-- 🧠 Willing to learn everything I can to develop myself.
-
-- 📫 How to reach me: **mglmendiol@gmail.com**
+📫 How to reach me: **mglmendiol@gmail.com**
+</div>
 
 <br>
 <div align="center">
