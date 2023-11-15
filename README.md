@@ -29,7 +29,7 @@
 <br>
 <div align="center">
 	
-| 💻Project | 📝Documentation | 💯Score |
+| 💻 Project | 📝 Documentation | 💯 Score |
 |:------:|:-------:|:------------------:|
 | **📚 Libft** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Libft/tree/main#readme) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 | **🤖 Born2beroot** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Born2BeRoot#readme) | - |
