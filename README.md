@@ -13,6 +13,8 @@
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=zarpos&style=flat-square&color=FBA92C" alt="Profile views"/>
 </div>
+
+<br>
 <br>
 
 - 👨‍💻 Currently studying in 42 Madrid.
@@ -22,6 +24,17 @@
 - 🧠 Willing to learn everything I can to develop myself.
 
 - 📫 How to reach me: **mglmendiol@gmail.com**
+
+<br>
+<div align="center">
+	
+| 💻Project | 💯Score | 📝Documentation |
+|:------:|:-------:|:------------------:|
+| **📚 Libft** | [Documentation](https://github.com/MiMendiola/Libft/tree/main#readme) | [![125](https://img.shields.io/badge/125-2ea44f)](https://) |
+| **🤖 Born2beroot** | [Documentation](https://github.com/MiMendiola/Born2BeRoot#readme) | - |
+| **⏩ Get_next_line** | [Documentation](https://github.com/MiMendiola/Get_Next_Line#readme) | [![112](https://img.shields.io/badge/112-2ea44f)](https://) |
+| **✍🏼 Ft_printf** | - | - |
+</div>
 
 <br>
 <div align="center">
