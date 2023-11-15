@@ -29,11 +29,11 @@
 <br>
 <div align="center">
 	
-| 💻Project | 💯Score | 📝Documentation |
+| 💻Project | 📝Documentation | 💯Score |
 |:------:|:-------:|:------------------:|
-| **📚 Libft** | [Documentation](https://github.com/MiMendiola/Libft/tree/main#readme) | [![125](https://img.shields.io/badge/125-2ea44f)](https://) |
-| **🤖 Born2beroot** | [Documentation](https://github.com/MiMendiola/Born2BeRoot#readme) | - |
-| **⏩ Get_next_line** | [Documentation](https://github.com/MiMendiola/Get_Next_Line#readme) | [![112](https://img.shields.io/badge/112-2ea44f)](https://) |
+| **📚 Libft** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Libft/tree/main#readme) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
+| **🤖 Born2beroot** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Born2BeRoot#readme) | - |
+| **⏩ Get_next_line** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Get_Next_Line#readme) | [![112](https://img.shields.io/badge/112-2ea44f)]() |
 | **✍🏼 Ft_printf** | - | - |
 </div>
 
