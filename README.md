@@ -37,7 +37,7 @@
 | **✍🏼 Ft_printf** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Ft_printf#readme) | [![100](https://img.shields.io/badge/100-2ea44f)]() |
 | **🕹️ So_long** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/So_long#readme) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 | **↹ Push_swap** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Push_swap#readme) | - |
-| **🧬 Pipex** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Pipex) | - |
+| **🧬 Pipex** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Pipex#readme) | - |
 </div>
 
 <br>
