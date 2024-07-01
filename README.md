@@ -49,8 +49,11 @@
 </div>
 
 <br>
-<div align="center">
+<div align=center>
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mmendiol?1337Badge=off&UM6P=off" alt="mmendiol's 42 stats" /></a>
+</div>
+<!-- <div align="center">
 	<a href="https://platzi.com/p/LMNTdev/">
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiMendiola&bg_color=0D1117&theme=dark" alt="Stats badge"/>
 	</a>
-</div>
+</div> -->
