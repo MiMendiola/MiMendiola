@@ -10,9 +10,7 @@
 		<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi badge"/>
 	</a>
 </div>
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=zarpos&style=flat-square&color=FBA92C" alt="Profile views"/>
-</div>
+
 
 <br>
 <div align="center">
@@ -28,7 +26,12 @@
 
 <br>
 <div align="center">
-	
+
+  <table style="border-collapse: collapse; border: none;">
+
+<tr>
+<td style="border: none;">
+
 | 💻 Project | 📝 Documentation | 💯 Score |
 |:------:|:-------:|:------------------:|
 | **📚 Libft** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Libft/tree/main#readme) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
@@ -38,6 +41,15 @@
 | **🕹️ So_long** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/So_long#readme) | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 | **↹ Push_swap** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Push_swap#readme) | - |
 | **🧬 Pipex** | [![Documentation](https://img.shields.io/badge/Documentation-0077B5)](https://github.com/MiMendiola/Pipex#readme) | - |
+</td>
+
+<td style="vertical-align: top; padding-left: 20px;">
+<a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/darkblue/mmendiol?1337Badge=off&UM6P=off" alt="mmendiol's 42 stats" />
+</a>
+</td>
+</tr>
+  </table>
 </div>
 
 <br>
@@ -46,11 +58,6 @@
 	<a href="https://github.com/MiMendiola"><img alt="Mendiola's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MiMendiola&show_icons=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=fff&icon_color=79ff97&hide_border=true" height="192" width="45%"/></a>
 	<a href="https://github.com/MiMendiola"><img alt="Miguel Mendiola's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MiMendiola&langs_count=8&layout=compact&theme=react&bg_color=0D1117&title_color=fff&icon_color=79ff97&hide_border=true&hide_progress=true" height="192px" width="45%"/></a>
 	</a>
-</div>
-
-<br>
-<div align=center>
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mmendiol?1337Badge=off&UM6P=off" alt="mmendiol's 42 stats" /></a>
 </div>
 <!-- <div align="center">
 	<a href="https://platzi.com/p/LMNTdev/">
