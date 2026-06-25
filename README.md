@@ -40,13 +40,13 @@ Java • Spring Boot • Python • C • C++ • Docker • Linux • SQL • J
 
 ## 🚀 Featured Projects
 
-### 🏆 [ft_transcendence](https://github.com/MiMendiola/ft_transcendence)
+### 🏆 [Transcendence](https://github.com/MiMendiola/Trascendencence)
 Full Stack web application built with a modern web stack.
 
 ### 🐳 [Inception](https://github.com/MiMendiola/Inception)
 Dockerized infrastructure with multiple services.
 
-### 💬 [ft_irc](https://github.com/MiMendiola/ft_irc)
+### 💬 [Irc](https://github.com/MiMendiola/IRC)
 IRC server implementation in C++.
 
 ### 🐚 [Minishell](https://github.com/MiMendiola/Minishell)
@@ -55,7 +55,7 @@ Custom Unix shell supporting pipes, redirections and environment variables.
 ### 🎮 [Cub3D](https://github.com/MiMendiola/Cub3D)
 Raycasting engine inspired by Wolfenstein 3D.
 
-### 🧵 [Philosophers](https://github.com/MiMendiola/Philosophers)
+### 🧵 [Philosophers](https://github.com/MiMendiola/Philo)
 Concurrency and synchronization using threads and mutexes.
 
 ---
